@@ -2,7 +2,7 @@
 
 public class SumOfTwo {
 
-/** This are the new comments based on the review */
+/** This are the new comments based on the review.  More changes to the comments */
     public Integer add(Integer a, Integer b){
         return a + b;
     }
